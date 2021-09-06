@@ -62,7 +62,7 @@ _Players:_ ANYONE who is using the restroom in public/private places.
 
 _Activity:_ When the tap is on, the people using it will be guided on how long they should go under water and what processes should be gone through.
 
-_Goals:_ The interactive device is a simple board attached to the tap, or places just in front of the basin(e.g. on the bottom of the mirror). When the tap is on, the timing starts and the color goes yellow - orange - red - violet - indigo - blue - green. Each transition takes about 3 seconds, and goes correspondingly with the handwashing steps advised by CDC, in a total of ~20 seconds.
+_Goals:_ The interactive device is a simple board attached to the tap, or places just in front of the basin(e.g. on the bottom of the mirror). When the tap is on, the timing starts and the color goes yellow - orange - red - violet - indigo - blue - green. Each transition takes about 3 seconds, and goes correspondingly with the handwashing steps advised by CDC[1], in a total of ~20 seconds.
 
 A simple sketch is here:
 ![image](https://github.com/xiaotianliusky/Interactive-Lab-Hub/blob/Fall2021/Lab%201/Sketch.png)
@@ -103,9 +103,9 @@ For these cases, the device won't (in fact, cannot) stay in the cycle and make i
 
 Think about the setting of the device: is the environment a place where the device could overheat? Is water a danger? Does it need to have bright colors in an emergency setting? */
 
-The board should be right in the eyesight of anyone who comes to wash hands.
+The 'light' should be right in the eyesight of anyone who comes to wash hands.
 
-Concerns:
+Concerns: In most public restrooms, [2] mirrors
 
 
 
@@ -117,7 +117,9 @@ Concerns:
 The prototyped interaction is here:
 https://drive.google.com/file/d/1hrZlyvefs8R9N_5E23IONPv87ZKqwW5l/view?usp=sharing
 
-Reference:https://www.cdc.gov/coronavirus/2019-ncov/global-covid-19/handwashing.html
+Reference:
+[1] https://www.cdc.gov/coronavirus/2019-ncov/global-covid-19/handwashing.html
+[2] https://www.bafcorp.com/blog/how-to-improve-public-restroom-hygiene-and-safety/
 
 # Staging Interaction, Part 2 
 
