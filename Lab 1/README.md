@@ -105,9 +105,10 @@ Think about the setting of the device: is the environment a place where the devi
 
 The 'light' should be right in the eyesight of anyone who comes to wash hands.
 
-Concerns: In most public restrooms, [2] mirrors
+Concerns: In most public restrooms, there are multiple mirrors. Some of the room may even have mirrors placed on both front and back walls. 
 
-
+[2]
+![image]()
 
 \*\***Include sketches of what your device might look like here.**\*\*
 
