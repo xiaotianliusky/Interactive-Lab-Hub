@@ -87,7 +87,7 @@ I use my smartphone as a stand-in for the device I'm prototyping. I will use is 
 ## Part D. Wizard the device
 //Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
 
-My first attempt is about tring to figure out where to put the 'lignt':
+My first attempt is about tring to figure out where to put the 'light':
 https://drive.google.com/file/d/1DFVLeWwgyg5ySSs5l3i_2nUT6pJlonBf/view?usp=sharing
 
 And the follow-up goes:
