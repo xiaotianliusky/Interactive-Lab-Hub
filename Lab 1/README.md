@@ -72,34 +72,26 @@ _Feedback:_
 
 ## Part B. Act out the Interaction
 
-Try physically acting out the interaction you planned. For now, you can just pretend the device is doing the things you’ve scripted for it. 
+When I was acting out the interaction, I found some reflection and inspiration:
 
-\*\***Are there things that seemed better on paper than acted out?**\*\*
+a) Pictures can be added to illustrate the 6 steps of handwashing, going alone with the lights;
 
-\*\***Are there new ideas that occur to you or your collaborators that come up from the acting?**\*\*
+b) Considering that people in a rush are likely to stop washing after wetting their hands for several seconds, we can show 'DON'T STOP' in the orange/red stage. This color is the best for caution, warning and indicating that a super short time of wash is never correct.
 
 
 ## Part C. Prototype the device
 
-You will be using your smartphone as a stand-in for the device you are prototyping. You will use the browser of your smart phone to act as a “light” and use a remote control interface to remotely change the light on that device. 
-
-Code for the "Tinkerbelle" tool, and instructions for setting up the server and your phone are [here](https://github.com/FAR-Lab/tinkerbelle).
-
-We invented this tool for this lab! 
-
-If you run into technical issues with this tool, you can also use a light switch, dimmer, etc. that you can can manually or remotely control.
-
-\*\***Give us feedback on Tinkerbelle.**\*\*
+I use my smartphone as a stand-in for the device I'm prototyping. I will use is as a “light”, a signal and a board showing instructions on handwashing steps.
 
 
 ## Part D. Wizard the device
-Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
+//Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
 
-\*\***Include your first attempts at recording the set-up video here.**\*\*
+My first attempt is about tring to figure out where to put the 'lignt':
+https://drive.google.com/file/d/1DFVLeWwgyg5ySSs5l3i_2nUT6pJlonBf/view?usp=sharing
 
-Now, hange the goal within the same setting, and update the interaction with the paper prototype. 
-
-\*\***Show the follow-up work here.**\*\*
+And the follow-up goes:
+https://drive.google.com/file/d/1yyXkgNa1V-fOTbrd3MlsMTvgd9jeuiFe/view?usp=sharing
 
 
 ## Part E. Costume the device
@@ -115,11 +107,11 @@ Think about the setting of the device: is the environment a place where the devi
 
 ## Part F. Record
 
-\*\***Take a video of your prototyped interaction.**\*\*
+The final prototyped interaction is here:
+https://drive.google.com/file/d/1hrZlyvefs8R9N_5E23IONPv87ZKqwW5l/view?usp=sharing
 
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
-
 
 
 # Staging Interaction, Part 2 
