@@ -116,7 +116,9 @@ The prototyped interaction is here:
 https://drive.google.com/file/d/1hrZlyvefs8R9N_5E23IONPv87ZKqwW5l/view?usp=sharing
 
 Reference:
+
 [1] https://www.cdc.gov/coronavirus/2019-ncov/global-covid-19/handwashing.html
+
 [2] https://www.bafcorp.com/blog/how-to-improve-public-restroom-hygiene-and-safety/
 
 # Staging Interaction, Part 2 
