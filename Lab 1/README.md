@@ -74,7 +74,7 @@ _Feedback:_
 
 When I was acting out the interaction, I found some reflection and inspiration:
 
-a) Pictures can be added to illustrate the 6 steps of handwashing, going alone with the lights;
+a) Pictures can be added to illustrate the 6 steps of handwashing, going alone with the lights.
 
 b) Considering that people in a rush are likely to stop washing after wetting their hands for several seconds, we can show 'DON'T STOP' in the orange/red stage. This color is the best for caution, warning and indicating that a super short time of wash is never correct.
 
@@ -93,26 +93,31 @@ https://drive.google.com/file/d/1DFVLeWwgyg5ySSs5l3i_2nUT6pJlonBf/view?usp=shari
 And the follow-up goes:
 https://drive.google.com/file/d/1yyXkgNa1V-fOTbrd3MlsMTvgd9jeuiFe/view?usp=sharing
 
+What should we do if users simply ignore the signals?
+
+For these cases, the device won't (in fact, cannot) stay in the cycle and make it conpulsory to finish the steps. The is not an automatic handwashing machine (may be, in the future), but a gadget that uses light to attract the attention, and make users go through the 20 seconds unconsciously, in a comfortable way.
 
 ## Part E. Costume the device
 
-Only now should you start worrying about what the device should look like. Develop a costume so that you can use your phone as this device.
+/* Only now should you start worrying about what the device should look like. Develop a costume so that you can use your phone as this device.
 
-Think about the setting of the device: is the environment a place where the device could overheat? Is water a danger? Does it need to have bright colors in an emergency setting?
+Think about the setting of the device: is the environment a place where the device could overheat? Is water a danger? Does it need to have bright colors in an emergency setting? */
+
+The board should be right in the eyesight of anyone who comes to wash hands.
+
+Concerns:
+
+
 
 \*\***Include sketches of what your device might look like here.**\*\*
-
-\*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
 
 
 ## Part F. Record
 
-The final prototyped interaction is here:
+The prototyped interaction is here:
 https://drive.google.com/file/d/1hrZlyvefs8R9N_5E23IONPv87ZKqwW5l/view?usp=sharing
 
-\*\***Please indicate anyone you collaborated with on this Lab.**\*\*
-Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
-
+Reference:https://www.cdc.gov/coronavirus/2019-ncov/global-covid-19/handwashing.html
 
 # Staging Interaction, Part 2 
 
