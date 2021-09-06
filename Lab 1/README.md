@@ -107,10 +107,10 @@ The 'light' should be right in the eyesight of anyone who comes to wash hands.
 
 Concerns: In most public restrooms, there are multiple mirrors. Some of the room may even have mirrors placed on both front and back walls. 
 
-[2]
-![image]()
+![image](https://github.com/xiaotianliusky/Interactive-Lab-Hub/blob/Fall2021/Lab%201/Commercial-Bathroom-Renovations-Indianapolis-Indiana.jpg)
+[2]: Public Restroom Design
 
-\*\***Include sketches of what your device might look like here.**\*\*
+sketches here
 
 
 ## Part F. Record
