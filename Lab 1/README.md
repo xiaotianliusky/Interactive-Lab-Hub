@@ -105,7 +105,7 @@ Think about the setting of the device: is the environment a place where the devi
 
 The 'light' should be right in the eyesight of anyone who comes to wash hands.
 
-Concerns: In most public restrooms, there are multiple mirrors. Some of the room may even have mirrors placed on both front and back walls. 
+Concerns: In most public restrooms, there are multiple mirrors. Some of the room may even have mirrors placed on both front and back walls. Too much 'light' in the room may be a disaster, as the mirrors will reflect the lights over and over and make the restroom be like a club. Hence, the lights should be either mild and gentle in brightness（still eye-catching), or carefully arranged to avoid overlight.
 
 ![image](https://github.com/xiaotianliusky/Interactive-Lab-Hub/blob/Fall2021/Lab%201/Commercial-Bathroom-Renovations-Indianapolis-Indiana.jpg)
 [2]: Public Restroom Design
