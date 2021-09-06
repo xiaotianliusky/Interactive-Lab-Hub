@@ -64,7 +64,7 @@ _Activity:_ When the tap is on, the people using it will be guided on how long t
 
 _Goals:_ The interactive device is a simple board attached to the tap, or places just in front of the basin(e.g. on the bottom of the mirror). When the tap is on, the timing starts and the color goes yellow - orange - red - violet - indigo - blue - green. Each transition takes about 3 seconds, and goes correspondingly with the handwashing steps advised by CDC, in a total of ~20 seconds.
 
-storyboard:
+A simple sketch is here:
 ![image](https://github.com/xiaotianliusky/Interactive-Lab-Hub/blob/Fall2021/Lab%201/Sketch.png)
 
 _Feedback:_ 
