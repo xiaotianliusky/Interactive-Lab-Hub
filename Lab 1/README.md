@@ -68,9 +68,13 @@ A simple sketch is here:
 
 ![image](https://github.com/xiaotianliusky/Interactive-Lab-Hub/blob/Fall2021/Lab%201/Sketch.png)
 
-My idea received feedback from Jenny Li (jl2852):
+_Feedback_:
+
+Jenny Li (jl2852):
 「I think that Skye did a really good job on designing the product. To start with, it is a common problem that many people face but neglect and it is connected to public health. Besides. the design of the product is interesting. The solution is succinct and graceful. I can imagine that most of the user should be able to understand the meaning of the design by their first glance. Finally, one thing that the designer may need to consider is that the user may face the situation to wash for more than one time. In this case, the direction may not be as clear. However it is a function hard to realize as well. Overall, really great job.」
 
+Tianyun Zou (tz392):
+「It's really an interesting idea! I think it can help people keep washing hands for a longer time. Also, it seems that the light can be used to indicate when and how long to use hand sanitizer during hand washing.」
 
 ## Part B. Act out the Interaction
 
@@ -126,7 +130,7 @@ Reference:
 
 [2] https://www.bafcorp.com/blog/how-to-improve-public-restroom-hygiene-and-safety/
 
-Great thanks to Jenny Li (jl2852) and xxx for the feedback：）
+Great thanks to Jenny Li (jl2852) and Tianyun Zou (tz392) for the feedback:)
 
 # Staging Interaction, Part 2 
 
