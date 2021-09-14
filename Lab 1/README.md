@@ -114,15 +114,6 @@ I found this picture a very nice illusration on how the 'light' can be ideally e
 
 ## Part F. Record
 
-The prototyped interaction is here:
-https://drive.google.com/file/d/1hrZlyvefs8R9N_5E23IONPv87ZKqwW5l/view?usp=sharing
-
-Reference:
-
-[1] https://www.cdc.gov/coronavirus/2019-ncov/global-covid-19/handwashing.html
-
-[2] https://www.bafcorp.com/blog/how-to-improve-public-restroom-hygiene-and-safety/
-
 
 # Staging Interaction, Part 2 
 
@@ -143,11 +134,19 @@ Great thanks to Jenny Li (jl2852) and Tianyun Zou (tz392) for the feedback:)
 
 ## Make it your own
 
-{% include googleDrivePlayer.html id=page.1hrZlyvefs8R9N_5E23IONPv87ZKqwW5l/preview %}
+The prototyped interaction is here:
+https://drive.google.com/file/d/1hrZlyvefs8R9N_5E23IONPv87ZKqwW5l/view?usp=sharing
 
-Do last week’s assignment again, but this time: 
+Reference:
+
+[1] https://www.cdc.gov/coronavirus/2019-ncov/global-covid-19/handwashing.html
+
+[2] https://www.bafcorp.com/blog/how-to-improve-public-restroom-hygiene-and-safety/
+
+
+/*Do last week’s assignment again, but this time: 
 1) It doesn’t have to (just) use light, 
 2) You can use any modality (e.g., vibration, sound) to prototype the behaviors! Again, be creative!
-3) We will be grading with an emphasis on creativity. 
+3) We will be grading with an emphasis on creativity. */
 
 \*\***Document everything here. (Particularly, we would like to see the storyboard and video, although photos of the prototype are also great.)**\*\*
