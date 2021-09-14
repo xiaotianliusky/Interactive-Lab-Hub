@@ -1,6 +1,4 @@
----
-driveId: 1hrZlyvefs8R9N_5E23IONPv87ZKqwW5l/preview
----
+
 
 # Staging Interaction
 
@@ -145,7 +143,7 @@ Great thanks to Jenny Li (jl2852) and Tianyun Zou (tz392) for the feedback:)
 
 ## Make it your own
 
-{% include googleDrivePlayer.html id=page.driveId %}
+{% include googleDrivePlayer.html id=page.1hrZlyvefs8R9N_5E23IONPv87ZKqwW5l/preview %}
 
 Do last week’s assignment again, but this time: 
 1) It doesn’t have to (just) use light, 
