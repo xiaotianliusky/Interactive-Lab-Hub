@@ -87,6 +87,12 @@ One thing you might need to pay attention to is the audio input setting of Pi. S
 
 \*\***Write your own shell file that verbally asks for a numerical based input (such as a phone number, zipcode, number of pets, etc) and records the answer the respondent provides.**\*\*
 
+I wrote ask_for_zipcode.sh . It will speak "Hello Skye, please tell me your zipcode". 
+
+[!image]
+
+The video is here: https://drive.google.com/file/d/1SoFRzjadH6XCw2y4eUSqctrCV-UgC8No/view?usp=sharing
+
 Bonus Activity:
 
 If you are really excited about Speech to Text, you can try out [Mozilla DeepSpeech](https://github.com/mozilla/DeepSpeech) and [voice2json](http://voice2json.org/install.html)
