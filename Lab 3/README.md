@@ -88,6 +88,7 @@ One thing you might need to pay attention to is the audio input setting of Pi. S
 \*\***Write your own shell file that verbally asks for a numerical based input (such as a phone number, zipcode, number of pets, etc) and records the answer the respondent provides.**\*\*
 
 I wrote ask_for_zipcode.sh . It will speak "Hello Skye, please tell me your zipcode" and store your verbal answers.
+![image](https://github.com/xiaotianliusky/Interactive-Lab-Hub/blob/Fall2021/Lab%203/ask_for_zipcode.png)
 
 The video is here: https://drive.google.com/file/d/1SoFRzjadH6XCw2y4eUSqctrCV-UgC8No/view?usp=sharing
 
@@ -119,8 +120,6 @@ pi@ixe00:~/Interactive-Lab-Hub/Lab 3 $ python server.py
  * Debugger PIN: 162-573-883
 ```
 From a remote browser on the same network, check to make sure your webserver is working by going to `http://<YourPiIPAddress>:5000`. You should be able to see "Hello World" on the webpage.
-
-![image](https://github.com/xiaotianliusky/Interactive-Lab-Hub/blob/Fall2021/Lab%203/ask_for_zipcode.png)
 
 ### Storyboard
 
