@@ -200,7 +200,7 @@ After that, Git will ask you to login to your GitHub account to push the updates
 ## Part F. 
 ## Make a short video of your modified barebones PiClock
 
-\*\*\***Take a video of your PiClock.**\*\*\*
+https://drive.google.com/file/d/1OsoDOmJIi4_p5LbrBLGpFFQs-E2H2EG2/view?usp=sharing
 
 ## Part G. 
 ## Sketch and brainstorm further interactions and features you would like for your clock for Part 2.
@@ -216,6 +216,8 @@ After that, Git will ask you to login to your GitHub account to push the updates
 # Lab 2 Part 2
 
 Pull Interactive Lab Hub updates to your repo.
+
+https://drive.google.com/file/d/13xHMyhDQmJOuZGTSGbvAN4INH2iyPrHM/view?usp=sharing
 
 Modify the code from last week's lab to make a new visual interface for your new clock. You may [extend the Pi](Extending%20the%20Pi.md) by adding sensors or buttons, but this is not required.
 
