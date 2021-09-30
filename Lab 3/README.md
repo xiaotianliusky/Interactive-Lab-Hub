@@ -121,6 +121,8 @@ pi@ixe00:~/Interactive-Lab-Hub/Lab 3 $ python server.py
 ```
 From a remote browser on the same network, check to make sure your webserver is working by going to `http://<YourPiIPAddress>:5000`. You should be able to see "Hello World" on the webpage.
 
+![image](https://github.com/xiaotianliusky/Interactive-Lab-Hub/blob/Fall2021/Lab%203/server_5000.png)
+
 ### Storyboard
 
 Storyboard and/or use a Verplank diagram to design a speech-enabled device. (Stuck? Make a device that talks for dogs. If that is too stupid, find an application that is better than that.) 
