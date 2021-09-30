@@ -58,18 +58,19 @@ You can also play audio files directly with `aplay filename`. Try typing `aplay 
 I created a myname.sh where it will: echo "Hello Xiaotian Skye!" --tts
 
 When I tried to run the shell, it went:
-
+```
 pi@ixe00:~/text2speech $ ./myname.sh
 -bash: ./myname.sh: Permission denied
-
+```
 So I edit the permission:
 
+```
 pi@ixe00:~/text2speech $ ls -l myname.sh
 -rw-r--r-- 1 pi pi 136 Sep 30 17:35 myname.sh
 pi@ixe00:~/text2speech $ chmod 755 myname.sh
 pi@ixe00:~/text2speech $ ls -l myname.sh
 -rwxr-xr-x 1 pi pi 136 Sep 30 17:35 myname.sh
-
+```
 Then the filename of myname.sh turned green and it can be executed.
 
 Here's the video: https://drive.google.com/file/d/1ERtffl2EQji-2HW1MsmczrMtQR3TG8ij/view?usp=sharing
