@@ -176,18 +176,16 @@ Try to get at least two people to interact with your system. (Ideally, you would
 Answer the following:
 
 ### What worked well about the system and what didn't?
-\*\**your answer here*\*\*
+In the test, the audio (in and out) worked well. The words recognition sometimes failed.
 
 ### What worked well about the controller and what didn't?
 
-\*\**your answer here*\*\*
+The controller in the system should be the voice. In fact, as the recognition is not robust, one who uses it should be master at speaking in an appropriate speed and volumn, so as to boost the probability of being recognized well.
 
 ### What lessons can you take away from the WoZ interactions for designing a more autonomous version of the system?
 
-\*\**your answer here*\*\*
-
+The Woz session let me know how to Wizard the system, and that we should get different languages or conditions involved.
 
 ### How could you use your system to create a dataset of interaction? What other sensing modalities would make sense to capture?
 
-\*\**your answer here*\*\*
-
+I would 
