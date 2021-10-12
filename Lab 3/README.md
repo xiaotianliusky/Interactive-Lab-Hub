@@ -136,8 +136,6 @@ Write out what you imagine the dialogue to be. Use cards, post-its, or whatever 
 
 \*\***Please describe and document your process.**\*\*
 
-![image](https://github.com/xiaotianliusky/Interactive-Lab-Hub/blob/Fall2021/Lab%203/lazy_shopping_cart.png)
-
 ### Acting out the dialogue
 
 Find a partner, and *without sharing the script with your partner* try out the dialogue you've designed, where you (as the device designer) act as the device you are designing.  Please record this interaction (for example, using Zoom's record feature).
@@ -166,9 +164,8 @@ The system should:
 * use one or more sensors
 * require participants to speak to it. 
 
-*Document how the system works*
-
-*Include videos or screencaptures of both the system and the controller.*
+https://drive.google.com/file/d/1fixG9OeFZ2hVPG_QxevnfwuQnU1ls9lf/view?usp=sharing
+![image](https://github.com/xiaotianliusky/Interactive-Lab-Hub/blob/Fall2021/Lab%203/lazy_shopping_cart.png)
 
 ## Test the system
 Try to get at least two people to interact with your system. (Ideally, you would inform them that there is a wizard _after_ the interaction, but we recognize that can be hard.)
