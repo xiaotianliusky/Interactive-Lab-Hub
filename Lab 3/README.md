@@ -185,4 +185,4 @@ The Woz session let me know how to Wizard the system, and that we should get dif
 
 ### How could you use your system to create a dataset of interaction? What other sensing modalities would make sense to capture?
 
-I would 
+I would record the shopping items in the dataset in order to improve the 'service'. A weighing sensor may be added to make it a real shopping assistant (since most of the grocery items are charged by weight instead of amounts).
