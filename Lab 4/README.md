@@ -233,6 +233,8 @@ Build a cardbord prototype of your design.
 
 https://drive.google.com/file/d/1V3kAmyOuGjW2CkkbmeeGTW3rh4_XLuqd/view?usp=sharing
 
+![image](https://github.com/xiaotianliusky/Interactive-Lab-Hub/blob/Fall2021/Lab%204/proto.jpeg)
+
 LAB PART 2
 
 ### Part 2
