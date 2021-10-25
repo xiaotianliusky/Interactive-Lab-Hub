@@ -231,6 +231,7 @@ Build a cardbord prototype of your design.
 
 **\*\*\*Document your rough prototype.\*\*\***
 
+https://drive.google.com/file/d/1V3kAmyOuGjW2CkkbmeeGTW3rh4_XLuqd/view?usp=sharing
 
 LAB PART 2
 
@@ -274,4 +275,9 @@ Document all the prototypes and iterations you have designed and worked on! Agai
 * "Looks like": shows how the device should look, feel, sit, weigh, etc.
 * "Works like": shows what the device can do
 * "Acts like": shows how a person would interact with the device
+
+https://drive.google.com/file/d/1bSM8y-JKpo9vwt2J7Wf43gbaPEMDohPO/view?usp=sharing
+
+https://drive.google.com/file/d/1q2LAxJwX53bn8A-yukI4aMMx3oNGlV0F/view?usp=sharing
+
 
