@@ -202,6 +202,8 @@ After that, Git will ask you to login to your GitHub account to push the updates
 
 https://drive.google.com/file/d/1OsoDOmJIi4_p5LbrBLGpFFQs-E2H2EG2/view?usp=sharing
 
+In my 'clock', the measurement of time is going to count on the time you hold on a button. After you press the button B the timing will start, and another press will reset the time clock.
+
 ## Part G. 
 ## Sketch and brainstorm further interactions and features you would like for your clock for Part 2.
 

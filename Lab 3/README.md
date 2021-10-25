@@ -54,7 +54,26 @@ Now, you might wonder what exactly is a `.sh` file? Typically, a `.sh` file is a
 You can also play audio files directly with `aplay filename`. Try typing `aplay lookdave.wav`.
 
 \*\***Write your own shell file to use your favorite of these TTS engines to have your Pi greet you by name.**\*\*
-(This shell file should be saved to your own repo for this lab.)
+
+I created a myname.sh where it will: echo "Hello Xiaotian Skye!" --tts
+
+When I tried to run the shell, it went:
+```
+pi@ixe00:~/text2speech $ ./myname.sh
+-bash: ./myname.sh: Permission denied
+```
+So I edit the permission:
+
+```
+pi@ixe00:~/text2speech $ ls -l myname.sh
+-rw-r--r-- 1 pi pi 136 Sep 30 17:35 myname.sh
+pi@ixe00:~/text2speech $ chmod 755 myname.sh
+pi@ixe00:~/text2speech $ ls -l myname.sh
+-rwxr-xr-x 1 pi pi 136 Sep 30 17:35 myname.sh
+```
+Then the filename of myname.sh turned green and it can be executed.
+
+Here's the video: https://drive.google.com/file/d/1ERtffl2EQji-2HW1MsmczrMtQR3TG8ij/view?usp=sharing
 
 Bonus: If this topic is very exciting to you, you can try out this new TTS system we recently learned about: https://github.com/rhasspy/larynx
 
@@ -67,6 +86,11 @@ In particular, look at `test_words.py` and make sure you understand how the voca
 One thing you might need to pay attention to is the audio input setting of Pi. Since you are plugging the USB cable of your webcam to your Pi at the same time to act as speaker, the default input might be set to the webcam microphone, which will not be working for recording.
 
 \*\***Write your own shell file that verbally asks for a numerical based input (such as a phone number, zipcode, number of pets, etc) and records the answer the respondent provides.**\*\*
+
+I wrote ask_for_zipcode.sh . It will speak "Hello Skye, please tell me your zipcode" and store your verbal answers.
+![image](https://github.com/xiaotianliusky/Interactive-Lab-Hub/blob/Fall2021/Lab%203/ask_for_zipcode.png)
+
+The video is here: https://drive.google.com/file/d/1SoFRzjadH6XCw2y4eUSqctrCV-UgC8No/view?usp=sharing
 
 Bonus Activity:
 
@@ -97,11 +121,16 @@ pi@ixe00:~/Interactive-Lab-Hub/Lab 3 $ python server.py
 ```
 From a remote browser on the same network, check to make sure your webserver is working by going to `http://<YourPiIPAddress>:5000`. You should be able to see "Hello World" on the webpage.
 
+![image](https://github.com/xiaotianliusky/Interactive-Lab-Hub/blob/Fall2021/Lab%203/server_5000.png)
+
 ### Storyboard
 
 Storyboard and/or use a Verplank diagram to design a speech-enabled device. (Stuck? Make a device that talks for dogs. If that is too stupid, find an application that is better than that.) 
 
 \*\***Post your storyboard and diagram here.**\*\*
+
+I would love to design a machine that can do the shopping for your by asking questions like 'how many potatoes do you want?'
+![image](https://github.com/xiaotianliusky/Interactive-Lab-Hub/blob/Fall2021/Lab%203/IMG_5491.JPG)
 
 Write out what you imagine the dialogue to be. Use cards, post-its, or whatever method helps you develop alternatives or group responses. 
 
@@ -135,9 +164,8 @@ The system should:
 * use one or more sensors
 * require participants to speak to it. 
 
-*Document how the system works*
-
-*Include videos or screencaptures of both the system and the controller.*
+https://drive.google.com/file/d/1fixG9OeFZ2hVPG_QxevnfwuQnU1ls9lf/view?usp=sharing
+![image](https://github.com/xiaotianliusky/Interactive-Lab-Hub/blob/Fall2021/Lab%203/lazy_shopping_cart.png)
 
 ## Test the system
 Try to get at least two people to interact with your system. (Ideally, you would inform them that there is a wizard _after_ the interaction, but we recognize that can be hard.)
@@ -145,18 +173,16 @@ Try to get at least two people to interact with your system. (Ideally, you would
 Answer the following:
 
 ### What worked well about the system and what didn't?
-\*\**your answer here*\*\*
+In the test, the audio (in and out) worked well. The words recognition sometimes failed.
 
 ### What worked well about the controller and what didn't?
 
-\*\**your answer here*\*\*
+The controller in the system should be the voice. In fact, as the recognition is not robust, one who uses it should be master at speaking in an appropriate speed and volumn, so as to boost the probability of being recognized well.
 
 ### What lessons can you take away from the WoZ interactions for designing a more autonomous version of the system?
 
-\*\**your answer here*\*\*
-
+The Woz session let me know how to Wizard the system, and that we should get different languages or conditions involved.
 
 ### How could you use your system to create a dataset of interaction? What other sensing modalities would make sense to capture?
 
-\*\**your answer here*\*\*
-
+I would record the shopping items in the dataset in order to improve the 'service'. A weighing sensor may be added to make it a real shopping assistant (since most of the grocery items are charged by weight instead of amounts).
