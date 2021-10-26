@@ -301,4 +301,7 @@ The product 'Looks Like' an untra thin card, small and light enough to bring in 
 https://drive.google.com/file/d/1q2LAxJwX53bn8A-yukI4aMMx3oNGlV0F/view?usp=sharing
 
 After the first version of prototype, I deciced to add the 'semitones' besides the 7 basic tones. 
-There are 12 buttons on the sensor, and there are exactly 12 tones in one octave. The video above shows the use of semitone on playing Beethoven's Für Elise.
+There are 12 buttons on the sensor, and there are exactly 12 tones in one octave. 
+
+It is implemented in cap_piano.py. Also I uploaded the audio documents created by garageband (do.mp3, do#.mp3, re.mp3, re#.mp3 etc.)
+The video above shows the use of semitone on playing Beethoven's Für Elise.
