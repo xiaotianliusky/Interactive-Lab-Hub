@@ -292,6 +292,8 @@ Document all the prototypes and iterations you have designed and worked on! Agai
 * "Works like": shows what the device can do
 * "Acts like": shows how a person would interact with the device
 
+(Videos are with sounds. Please turn up the volume since my camera is not good at catching sounds.)
+
 https://drive.google.com/file/d/1bSM8y-JKpo9vwt2J7Wf43gbaPEMDohPO/view?usp=sharing
 
 The product 'Looks Like' an untra thin card, small and light enough to bring in the handbag. It 'Works Like' a real piano that helps to record the musical inspirations or just for fun anywhere. It 'Acts Like' a portable keyboard that users will intuitively know how to tap on the keys.
