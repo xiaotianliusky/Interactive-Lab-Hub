@@ -176,10 +176,16 @@ Usually, sensors need to positioned in specific locations or orientations to mak
 **\*\*\*Draw 5 sketches of different ways you might use your sensor, and how the larger device needs to be shaped in order to make the sensor useful.\*\*\***
 ![image](https://github.com/xiaotianliusky/Interactive-Lab-Hub/blob/Fall2021/Lab%204/sketch_part_c.jpeg)
 
+1. Consider the multiple buttons of the capacitive sensor, consider to turn it into a keyboard (each button counts for a sound).
+2. Whac-a-mole game pad implemented by the capacitive buttons
+3. Smart lamp: use the light sensor to measure the luminence and adjust the light automatically, plus the rotary to adjust manually.
+4. The distance sensor to keep your eyes at an appropriate distance to the screen.
+5. The joystick as a controller in the crane-claw machine.
+
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
 
 **\*\*\*Pick one of these designs to prototype.\*\*\***
-
+I will work on the first one (piano keyboard) in the next part.
 
 ### Part D
 ### Physical considerations for displaying information and housing parts
@@ -221,11 +227,19 @@ Think about how you want to present the information about what your sensor is se
  
 **\*\*\*Sketch 5 designs for how you would physically position your display and any buttons or knobs needed to interact with it.\*\*\***
 ![image](https://github.com/xiaotianliusky/Interactive-Lab-Hub/blob/Fall2021/Lab%204/sketch_part_d.jpeg)
+
+1. Use springs under each pad that funtions as a real keyboard (with gravity). Use wires to connect with outer box of the sensor and Pi.
+2. Embed the sensor into a box-like machine, and tap directly on the capacity buttons.
+3. A folded keyboard that is full in keys and connected with outer wires to the Pi.
+4. A roll-up keyboard, and the control box (with Pi and sensors in it) is fixed at one end of the roll.
+5. A thin and small pad that connects with the Pi and sensors (may need extra button to switch the octave).
+
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
-
+When I was doing the sketches, the first issue came up was that whether I should use the original buttons on the sensor or I should connected with other buttons. Considering that the sensor buttons are too small and close to each other, it will be not comfortable to press on it and it is easy to press the neighbour buttons in mistake. Hence I decided to hide the sensor and make the machine interact with users via extra buttons (keys).
 **\*\*\*Pick one of these display designs to integrate into your prototype.\*\*\***
-
+I chose the last to work on in the next steps.
 **\*\*\*Explain the rationale for the design.\*\*\*** (e.g. Does it need to be a certain size or form or need to be able to be seen from a certain distance?)
+A thin pad is ultra convenient and light, that I envision this keyboard to be really fun and easy to bring.
 
 Build a cardbord prototype of your design.
 
@@ -280,6 +294,9 @@ Document all the prototypes and iterations you have designed and worked on! Agai
 
 https://drive.google.com/file/d/1bSM8y-JKpo9vwt2J7Wf43gbaPEMDohPO/view?usp=sharing
 
+The product 'Looks Like' an untra thin card, small and light enough to bring in the handbag. It 'Works Like' a real piano that helps to record the musical inspirations or just for fun anywhere. It 'Acts Like' a portable keyboard that users will intuitively know how to tap on the keys.
+
 https://drive.google.com/file/d/1q2LAxJwX53bn8A-yukI4aMMx3oNGlV0F/view?usp=sharing
 
-
+After the first version of prototype, I deciced to add the 'semitones' besides the 7 basic tones. 
+There are 12 buttons on the sensor, and there are exactly 12 tones in one octave. The video above shows the use of semitone on playing Beethoven's Für Elise.
