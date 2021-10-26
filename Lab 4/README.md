@@ -247,8 +247,6 @@ Build a cardbord prototype of your design.
 
 https://drive.google.com/file/d/1V3kAmyOuGjW2CkkbmeeGTW3rh4_XLuqd/view?usp=sharing
 
-![image](https://github.com/xiaotianliusky/Interactive-Lab-Hub/blob/Fall2021/Lab%204/proto.jpeg)
-
 LAB PART 2
 
 ### Part 2
@@ -302,6 +300,8 @@ https://drive.google.com/file/d/1q2LAxJwX53bn8A-yukI4aMMx3oNGlV0F/view?usp=shari
 
 After the first version of prototype, I deciced to add the 'semitones' besides the 7 basic tones. 
 There are 12 buttons on the sensor, and there are exactly 12 tones in one octave. 
+![image](https://github.com/xiaotianliusky/Interactive-Lab-Hub/blob/Fall2021/Lab%204/semitone.png)
+![image](https://github.com/xiaotianliusky/Interactive-Lab-Hub/blob/Fall2021/Lab%204/proto.jpeg)
 
 It is implemented in cap_piano.py. Also I uploaded the audio documents created by garageband (do.mp3, do#.mp3, re.mp3, re#.mp3 etc.)
 The video above shows the use of semitone on playing Beethoven's Für Elise.
