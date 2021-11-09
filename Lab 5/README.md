@@ -99,6 +99,10 @@ pi@ixe00:~/openCV-examples/object-detection $ python detect.py
 ```
 
 **\*\*\*Try each of the following four examples in the `openCV-examples`, include screenshots of your use and write about one design for each example that might work based on the individual benefits to each algorithm.\*\*\***
+Contours: May be useful for autonomous vechicles, e.g. object detecting, roadmap constructing.
+Flow: I use it for Eye Tracking, and it is useful for analyzing human attetion, psycho, or facial expression.
+Object: Detecting object that can be helpful in mant scenarios, e.g. help to find items in a room.
+Face: Best for smart camera (it is fun that the cartoon face on my hoodie was also recognized).
 ![image](https://github.com/xiaotianliusky/Interactive-Lab-Hub/blob/Fall2021/Lab%205/contours.jpeg)
 ![image](https://github.com/xiaotianliusky/Interactive-Lab-Hub/blob/Fall2021/Lab%205/flow.jpeg)
 ![image](https://github.com/xiaotianliusky/Interactive-Lab-Hub/blob/Fall2021/Lab%205/object.jpeg)
@@ -139,6 +143,7 @@ Each of the installs will take a while, please be patient. After successfully in
 Try the two main features of this script: 1) pinching for percentage control, and 2) "[Quiet Coyote](https://www.youtube.com/watch?v=qsKlNVpY7zg)" for instant percentage setting. Notice how this example uses hardcoded positions and relates those positions with a desired set of events, in `hand_pose.py` lines 48-53. 
 ![image](https://github.com/xiaotianliusky/Interactive-Lab-Hub/blob/Fall2021/Lab%205/hand.jpeg)
 **\*\*\*Consider how you might use this position based approach to create an interaction, and write how you might use it on either face, hand or body pose tracking.\*\*\***
+I  may use the hand-pose detection for gesture control. For example, in VR world that no physical buttons or touch screen available, the hand gesture will be the mainstream for menu navigation and system control.
 
 (You might also consider how this notion of percentage control with hand tracking might be used in some of the physical UI you may have experimented with in the last lab, for instance in controlling a servo or rotary encoder.)
 
@@ -177,7 +182,7 @@ This might take a while to get fully installed. After installation, connect your
 **\*\*\*Whether you make your own model or not, include screenshots of your use of Teachable Machines, and write how you might use this to create your own classifier. Include what different affordances this method brings, compared to the OpenCV or MediaPipe options.\*\*\***
 ![image](https://github.com/xiaotianliusky/Interactive-Lab-Hub/blob/Fall2021/Lab%205/teach.png)
 ![image](https://github.com/xiaotianliusky/Interactive-Lab-Hub/blob/Fall2021/Lab%205/teach.jpeg)
-
+I have tried a face w/ or w/o hand shading. The classifier will be useful for character detection (valid content filter for social media).
 *Don't forget to run ```deactivate``` to end the Teachable Machines demo, and to reactivate with ```source tmachine/bin/activate``` when you want to use it again.*
 
 
@@ -203,6 +208,7 @@ This can be as simple as the boat detector earlier.
 Try out different interaction outputs and inputs.
 
 **\*\*\*Describe and detail the interaction, as well as your experimentation here.\*\*\***
+
 
 ### Part C
 ### Test the interaction prototype
