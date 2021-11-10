@@ -230,8 +230,9 @@ During the lecture, we mentioned questions to help characterize a material:
 * What are other properties/behaviors of X?
 * How does X feel?
 
+We can use the system to help locate an item in your room. In the test, I found that the light plays an important role on the accuracy and sensitiveness of this system. Thus, an ideally good environment will be an appropriately luminated space, with all items not hided by occluder. The capture fails when the item does not show a contrast to its background, or the item is with too much shadow, or too much light exposure. There is no critical risk for the breakdown, as the worst result will be that the user must find the item in a longer time (and mostly by eyes). It feels like a torch in hand, or a searchlight.
+
 ### Part 2.
-https://drive.google.com/file/d/1q3bn8A-yukI4aMMx3oNGlV0F/view?usp=sharing
 
 Following exploration and reflection from Part 1, finish building your interactive system, and demonstrate it in use with a video.
 
