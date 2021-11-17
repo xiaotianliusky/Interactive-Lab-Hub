@@ -83,7 +83,7 @@ Once connected, you should be able to see all the messages under the IDD topic. 
   (circuitpython) pi@ixe00:~ Interactive-Lab-Hub/Lab 6 $ python reader.py
   ...
   ```
-
+![image](https://github.com/xiaotianliusky/Interactive-Lab-Hub/blob/Fall2021/Lab%206/part_test.png)
 **\*\*\*Consider how you might use this messaging system on interactive devices, and draw/write down 5 ideas here.\*\*\***
 1. Cornell Alert - the message system can be used for a central-controlled alert system.
 2. Instant Notification - for time, weather, schedule, home device and appliances (microwave, washing machine, etc.)
