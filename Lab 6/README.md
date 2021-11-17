@@ -85,6 +85,12 @@ Once connected, you should be able to see all the messages under the IDD topic. 
   ```
 
 **\*\*\*Consider how you might use this messaging system on interactive devices, and draw/write down 5 ideas here.\*\*\***
+1. Cornell Alert - the message system can be used for a central-controlled alert system.
+2. Instant Notification - for time, weather, schedule, home device and appliances (microwave, washing machine, etc.)
+3. Convinient Communication - message and thread can be created and read
+4. Subscription - choose the channel or topic that is interesting
+5. Car Interaction - get to know the traffic, autosystem info
+6.....
 
 ### Part C
 ### Streaming a Sensor
