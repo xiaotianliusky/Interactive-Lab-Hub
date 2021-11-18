@@ -151,11 +151,20 @@ Find at least one class (more are okay) partner, and design a distributed applic
 
 **\*\*\*1. Explain your design\*\*\*** For example, if you made a remote controlled banana piano, explain why anyone would want such a thing.
 
+We would love to design a Fitting Room Assistant. Suppose that Lucy is trying on a new dress, and she loves the style but wants to see if a larger size fits her better. She would have to changed back to her own clothes, walk out of the fitting room, fetch anonther piece, and go back. With this smart assitant, she can scan the label and select the size she wants to try. A staff will get notified and fetch it, delivering directly to the fitting room unit she is using.
+
 **\*\*\*2. Diagram the architecture of the system.\*\*\*** Be clear to document where input, output and computation occur, and label all parts and connections. For example, where is the banana, who is the banana player, where does the sound get played, and who is listening to the banana music?
+
+![image]()
 
 **\*\*\*3. Build a working prototype of the system.\*\*\*** Do think about the user interface: if someone encountered these bananas somewhere in the wild, would they know how to interact with them? Should they know what to expect?
 
+![image]()
+
 **\*\*\*4. Document the working prototype in use.\*\*\*** It may be helpful to record a Zoom session where you should the input in one location clearly causing response in another location.
 
-<!--**\*\*\*5. BONUS (Wendy didn't approve this so you should probably ignore it)\*\*\*** get the whole class to run your code and make your distributed system BIGGER.-->
+1. The users will pick up the device when they enter the fitting room area.
+2. The user will be able to scan the label of the clothes that she want to try on another size. Then a list of available choices will be displayed.
+3. The user can click and select, or keep on adding another piece.
+4. The staff will receive the request on their computer and fetch the corresponding item.
 
