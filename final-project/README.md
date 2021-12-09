@@ -33,7 +33,7 @@ Write-up and documentation due - December 13
 
 Paper Prototype and System Diagram
 
-![image]()
+![image](https://github.com/xiaotianliusky/Interactive-Lab-Hub/blob/Fall2021/final-project/paper_proto.jpeg)
 ![image]()
 
 ## Demo Video
