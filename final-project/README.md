@@ -1,1 +1,44 @@
-Welcome to the Creepy Snake!
+# Welcome to the Creepy Game!
+
+Final Project for Interactive Device Design, INFO5345/CS5424/ECE5413
+
+by Jiejun Tian (tj587), Xiaotian Liu (xl467)
+
+## Overview
+
+At start, the game will begin with a normal mode (normal Snake Game). A certain phrase of easily recognized music (e.g. a scale of Do, Re, Mi, Fa, So) will tune in and repeat. When it comes to the end of the 3rd repeat, the mode will be switched to a Creepy Mode! In the creepy mode, the player should operate in a conversed way, that is, to press UP for going down, press LEFT for going right, etc.
+
+## Prep
+
+Parts we need:
+
+A Raspberry Pi for central control
+A joystick sensor to pivot the direction
+A webcam to play the music
+A LED display to show the game
+An OLED display for in-game timer (optional)
+A live music player and a musical instrument
+
+## Design
+
+Paper Prototype and System Diagram
+
+![image]()
+
+## Demo Video
+
+
+
+## Initial Ideation, Backup Plan and Reflection
+
+Initially, we are going to build up an interactive game - Creepy Game. Inspired by the prototype of Flappy Bird, we would love to make the interactive control a little tricky. In the game, a random BGM will come along with the flying bird. When there is Major-tonality music going (sounds cheerful), the player should control the bird by the joystick in a normal mode. When another piece of Minor-tonality music tunes in (that sounds creepy and gloomy), the direction-mapping between the joystick and the bird will converse. In this ‘creepy’ mode, the user should press up for the bird to go down, and press down for going up. Those two modes will randomly come up in the game, and the player should response and adjust accordingly.
+
+There are several issues concerning the initial ideation:
+1. The bird game relies heavily on the player’s speed of response. Thus, there will be a relatively high demand for the time sensitivity of the system. If we want to switch the control mode, or set up several levels of speed for the bird in a prompt (to make the game gradually exciting), it will be challenging for us to ensure the robustness of this system.
+2. In the Flappy Bird game, there is a default speed of 'falling down'. 'Click to go up' is the only choice of interaction for a player. Thus, there is no counterpart in the creepy mode (you don't hit another button to let the bird go down, left, or right).
+3. It may require some knowledge of music for the players to identify the piece of BGM as Major-tonality or Minor-tonality.
+
+Thus, we decided to implement the Creepy Snake - four directions are all included! Also, we decide to change the way of triggering a Creepy Mode, in order to make the game more universal. We would also expect to add more fun for the game in the future (e.g. facilitate two players and make them compete in the board simoutaniously).
+
+Have Fun:)
+
