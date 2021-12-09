@@ -17,7 +17,7 @@ b) A joystick sensor to pivot the direction
 c) A webcam to play the music  
 d) A LED display to show the game  
 e) An OLED display for in-game timer (optional)  
-f) A live music player and a musical instrument  
+f) A live music player and a musical instrument (optional)
 
 ## Timeline
 
