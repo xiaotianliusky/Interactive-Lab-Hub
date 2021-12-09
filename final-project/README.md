@@ -19,6 +19,16 @@ d) A LED display to show the game
 e) An OLED display for in-game timer (optional)  
 f) A live music player and a musical instrument  
 
+## Timeline
+
+Project plan - November 22  
+Prototype and design of the project - November 23  
+Finish programming implementation - November 25  
+Testing and optimization based on feedback from users - November 27  
+Functional check-off - November 30  
+Final Project Presentations - December 7  
+Write-up and documentation due - December 13  
+
 ## Design
 
 Paper Prototype and System Diagram
@@ -30,7 +40,7 @@ Paper Prototype and System Diagram
 
 
 
-## Initial Ideation, Backup Plan and Reflection
+## Ideation, Backup Plan and Reflection
 
 Initially, we are going to build up an interactive game - Creepy Game. Inspired by the prototype of Flappy Bird, we would love to make the interactive control a little tricky. In the game, a random BGM will come along with the flying bird. When there is Major-tonality music going (sounds cheerful), the player should control the bird by the joystick in a normal mode. When another piece of Minor-tonality music tunes in (that sounds creepy and gloomy), the direction-mapping between the joystick and the bird will converse. In this ‘creepy’ mode, the user should press up for the bird to go down, and press down for going up. Those two modes will randomly come up in the game, and the player should response and adjust accordingly.
 
