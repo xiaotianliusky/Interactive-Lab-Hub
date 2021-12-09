@@ -10,19 +10,20 @@ At start, the game will begin with a normal mode (normal Snake Game). A certain 
 
 ## Prep
 
-Parts we need:
+Parts we need:  
 
-a) A Raspberry Pi for central control
-b) A joystick sensor to pivot the direction
-c) A webcam to play the music
-d) A LED display to show the game
-e) An OLED display for in-game timer (optional)
-f) A live music player and a musical instrument
+a) A Raspberry Pi for central control  
+b) A joystick sensor to pivot the direction  
+c) A webcam to play the music  
+d) A LED display to show the game  
+e) An OLED display for in-game timer (optional)  
+f) A live music player and a musical instrument  
 
 ## Design
 
 Paper Prototype and System Diagram
 
+![image]()
 ![image]()
 
 ## Demo Video
