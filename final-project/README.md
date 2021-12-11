@@ -38,7 +38,7 @@ Paper Prototype and System Diagram
 
 ## Demo Video
 
-
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/JY2e56Nll98/0.jpg)](https://https://youtu.be/JY2e56Nll98)
 
 ## Ideation, Backup Plan and Reflection
 
