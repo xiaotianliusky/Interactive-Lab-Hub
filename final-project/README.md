@@ -2,7 +2,7 @@
 
 Final Project for Interactive Device Design, INFO5345/CS5424/ECE5413
 
-by Jiejun Tian (tj587), Xiaotian Liu (xl467)
+by Jiejun Tian (jt587), Xiaotian Liu (xl467)
 
 ## Overview
 
